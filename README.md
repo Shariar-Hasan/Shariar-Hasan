@@ -1,12 +1,12 @@
 
 <img style="border-radius: 10px;" src="https://i.pinimg.com/originals/47/fe/ec/47feec5a00242e38e619654013b57e57.jpg">
 
-### Hi there, I'm Shariar - aka [NightWalker][profile]👋
+<h2 align="center" >Hi there, I'm Shariar - aka <a href="https://github.com/shariar-hasan">Night Walker </a>👋<h2>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/iShariarHasan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FiShariarHasan&screen_name=iShariarHasan) 
 
 ---
-## I'm a Student, and a junior Learner :p
+### I'm a Student, and a junior Learner :p
 
 -  I just launched my first course: [Become A VS Code SuperHero!][course]!
 -  I’m currently learning everything 
@@ -50,8 +50,7 @@
 ---
 ### GitHub Stats
 <br>
-<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shariar-Hasan&show_icons=true&hide_border=true" />
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shariar-Hasan&show_icons=true&locale=en&layout=compact" alt="Shariar-Hasan" /></p>
 
 [profile]: https://github.com/shariar-hasan
 [twitter]: https://twitter.com/iShariarHasan
