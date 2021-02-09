@@ -50,6 +50,8 @@
 ---
 ### GitHub Stats
 <br>
+ <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shariar-Hasan&show_icons=true&hide_border=true" />
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shariar-Hasan&show_icons=true&locale=en&layout=compact" alt="Shariar-Hasan" /></p>
 
 [profile]: https://github.com/shariar-hasan
