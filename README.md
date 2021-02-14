@@ -8,7 +8,6 @@
 ---
 ### I'm a Student, and a junior Learner :p
 
--  I just launched my first course: [Become A VS Code SuperHero!][course]!
 -  I’m currently learning everything 
 -  I’m also a googler :p
 -  2020 Goals: Dedicate more in web development
