@@ -97,6 +97,6 @@ class About extends Me {
 </p>
 <!-- Hacktober Fest -->
 
-### HacktoberFest 2023 Open Source Contribution Achivements
+### HacktoberFest 2023 & 2024 Open Source Contribution Achivements
 
 [![An image of @shariarhasan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shariarhasan)](https://holopin.io/@shariarhasan)
