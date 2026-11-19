@@ -1,102 +1,74 @@
-<h1 align="center">Hi 👋, I'm Shariar Hasan</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=1500&pause=1000&color=0000FF&center=true&multiline=true&random=true&width=1200&height=200&lines=MERN+Stack+Developer;JavaScript+Enthusiast;Frontend+Lover)](https://git.io/typing-svg)
-
-```typescript
-class About extends Me {
-  public name: string
-  public title: string[]
-  public location: string
-  public email: string
-
-  constructor() {
-    super()
-    this.name = 'Shariar Hasan'
-    this.title = ['MERN Stack Developer', 'JavaScript Enthusiast']
-    this.location = 'Bangladesh'
-    this.email = 'shariar.hasan.1523@gmail.com'
-  }
-
-  get skills(): string[] {
-    return [
-      'Html',
-      'CSS',
-      'Tailwind CSS',
-      'Bootstrap',
-      'Sass/Scss',
-      'Javascript',
-      'TypeScript',
-      'React JS',
-      'Next.js',
-      'Express JS',
-      'Node Js',
-      'C',
-      'C++',
-      'Python',
-      'MongoDB',
-      'Firebase',
-      'Material UI',
-      'Mongoose',
-      'Redux Toolkit',
-    ]
-  }
-  get graduation(): string {
-    return 'B.Sc. Engineering in CSE from University of Chittagong'
-  }
-  get contactMe(): string {
-    return 'shahriar.hasan.1523@gmail.com'
-  }
-}
-```
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shariar-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="shariar-hasan" /> </p>
-
-- 📝 I regularly write blogs on [My Medium Blog](https://medium.com/@ShariarHasan)
-
-- 📫 How to reach me **shahriar.hasan.1523@gmail.com**
-
-### Connect via
-
-<p align="left">
-<a href="https://linkedin.com/in/shariar-hasan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shariar-hasan" height="30" width="40" /></a>
-<a href="https://fb.com/ishariarhasan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishariarhasan" height="30" width="40" /></a>
-<a href="https://medium.com/@shariarhasan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shariarhasan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ethico" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ethico" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ishariarhasan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishariarhasan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ethico" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ethico" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ishariarhasan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishariarhasan" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ethico" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ethico" height="30" width="40" /></a>
-</p>
-
-<!-- Stat Section -->
-
-### Github Stats
-
-![Shariar's GitHub Summery](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shariar-Hasan&theme=transparent)
-![Shariar's Top Used Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shariar-Hasan&theme=transparent)
-![Top Lang By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shariar-Hasan&theme=transparent)
-![Commits Stat of Shariar Hasan](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shariar-Hasan&theme=transparent)
-![Commit Bar](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shariar-Hasan&theme=transparent&utcOffset=8)
-
-[![Shariar's GitHub Streak](https://streak-stats.demolab.com?user=Shariar-Hasan&theme=dark&hide_border=true&border_radius=1&mode=weekly&card_width=1200)](https://git.io/streak-stats)
-
-### languages
+<h1 align="center">Hi, I'm Shariar Hasan 👋</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,solidjs,nodejs,express,tailwind,bootstrap,scss,c,cpp,python,materialui&perline=8" />
+  Software Engineer, backend focused · Dhaka, Bangladesh<br />
+  I build APIs and web products with NestJS, Node.js, PostgreSQL and Next.js.
+</p>
+
+<p align="center">
+  <a href="https://shariardev.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/shariar-hasan/">LinkedIn</a> ·
+  <a href="https://shariardev.com/blogs">Writing</a> ·
+  <a href="mailto:shahriar.hasan.1523@gmail.com">Email</a>
+</p>
+
+---
+
+## About
+
+I'm a software engineer at **TopOfStack Software** with nearly 3 years of professional experience across APIs, databases, background jobs and frontends. I like backends that stay simple as they grow: clear modules, safe database transactions, and queues for work that shouldn't block a request.
+
+- 🔧 Working with: NestJS, PostgreSQL, RabbitMQ, Next.js
+- 🌱 Open source: I maintain **env-typed-guard**, and I've taken part in Hacktoberfest
+- 💼 **Open to full-time Backend or Full-Stack Engineer roles** (remote, hybrid or on-site in Dhaka)
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,mongodb,redis,nextjs,react,tailwind,docker,git&perline=11" alt="Tech stack icons" />
+</p>
+
+| Area | What I use |
+| --- | --- |
+| Backend | Node.js, NestJS, Express.js, REST APIs, WebSockets, RabbitMQ |
+| Databases | PostgreSQL, MongoDB, TypeORM, Prisma |
+| Frontend | TypeScript, React.js, Next.js, Tailwind CSS |
+| Tools | Git, Docker (basics) |
+
+## Projects
+
+| Project | What it is |
+| --- | --- |
+| [**env-typed-guard**](https://www.npmjs.com/package/env-typed-guard) | A TypeScript-first library for type-safe environment variable parsing and validation, with fail-fast errors, presets and secret masking. [Docs](https://etg.pw.shariardev.com/) |
+| [**HIC School Management**](https://github.com/Shariar-Hasan/case-studies/tree/main/hic-school-management-app) | Role-based school platform with an admin dashboard and a parent portal. NestJS and PostgreSQL, RabbitMQ for email and payment confirmation, idempotent payment webhooks, a double-entry ledger and audit logs. [Case study](https://github.com/Shariar-Hasan/case-studies/tree/main/hic-school-management-app) |
+| [**Hic New York**](https://hicny.org) | Website for Hillside Islamic Center, built with Next.js, Node.js and PostgreSQL. |
+| [**Melbourne Limolink**](https://melbournelimolink.com.au) | Website for a Melbourne chauffeur service, built with Next.js, Node.js and Strapi. |
+| [**Cpp Snip**](https://marketplace.visualstudio.com/items?itemName=Shariar-Hasan.cpp-snip-cp) | A VS Code extension with C++ snippets for faster coding in contests. |
+
+More at [shariardev.com/projects](https://shariardev.com/projects).
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shariar-Hasan&theme=transparent" alt="GitHub summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shariar-Hasan&theme=transparent" alt="Top languages" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Shariar-Hasan&theme=dark&hide_border=true&border_radius=1&mode=weekly" alt="GitHub streak" />
   </a>
 </p>
 
-### Tools
+## Find me elsewhere
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,firebase,mongodb,netlify,heroku" />
-  </a>
-</p>
-<!-- Hacktober Fest -->
+[LinkedIn](https://www.linkedin.com/in/shariar-hasan/) ·
+[Portfolio](https://shariardev.com) ·
+[GitLab](https://gitlab.com/shariar.hasan) ·
+[YouTube](https://www.youtube.com/@Mr.Ethico) ·
+[LeetCode](https://www.leetcode.com/ishariarhasan) ·
+[Codeforces](https://codeforces.com/profile/ethico)
 
-### HacktoberFest 2023 & 2024 Open Source Contribution Achivements
+### Hacktoberfest
 
-[![An image of @shariarhasan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shariarhasan)](https://holopin.io/@shariarhasan)
+[![Shariar's Holopin badges](https://holopin.me/shariarhasan)](https://holopin.io/@shariarhasan)
